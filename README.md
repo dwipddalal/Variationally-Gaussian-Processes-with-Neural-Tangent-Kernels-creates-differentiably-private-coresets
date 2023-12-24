@@ -5,5 +5,5 @@ The [presentation](https://www.canva.com/design/DAF203jIBZw/St1a2A9i_qstgF4ofRvC
 
 Citation
 
-Dalal, D., Das, P., & Dasgupta, A. (2023). Breadcrumbs: Variationally Gaussian Processes with Neural Tangent Kernels creates differentiably private coresets. GitHub repository. Retrieved from [URL of the GitHub repository]
+Dalal, D., Das, P., & Dasgupta, A. (2023). Breadcrumbs: Variationally Gaussian Processes with Neural Tangent Kernels creates differentiably private coresets. GitHub repository. Retrieved from https://github.com/dwipddalal/Variationally-Gaussian-Processes-with-Neural-Tangent-Kernels-creates-differentiably-private-coresets/blob/main/README.md
 
