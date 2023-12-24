@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Variationally Gaussian Processes with Neural Tangent Kernels creates differentiably private coresets"
+date-released: 2023-04-03
+authors:
+  - family-names: Dalal
+    given-names: Dwip
+  - family-names: Das
+    given-names: Progyan
+  - family-names: Dasgupta
+    given-names: Anirban
+repository-code: "https://github.com/dwipddalal/Variationally-Gaussian-Processes-with-Neural-Tangent-Kernels-creates-differentiably-private-coresets"
